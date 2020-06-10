@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    background-color: #2196f3;
+    height: 65px;
+    border-radius: 2px;
+}
+
+.title {
+    align-self: center;
+    margin-left: 40px;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+}
